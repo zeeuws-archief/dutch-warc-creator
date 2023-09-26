@@ -5,7 +5,7 @@ Create WARC-files from Internet Archive snapshots, explained in a Dutch Python N
 
 **Welkom!**
 
-Dit is een tool om WARC-bestanden te creëren vanuit URL's. In het voorbeeld is een snapshot gebruikt van *The Internet Archive*.
+Dit is een tool om WARC-bestanden te creëren vanuit URL's. In het voorbeeld is een snapshot gebruikt van *The Internet Archive* (https://archive.org/).
 
 - Open het notebook, bijvoorbeeld in VScode of Jupyter Notebook
 - Volg de stappen om de tool te configureren
