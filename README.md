@@ -11,6 +11,7 @@ Dit is een tool om WARC-bestanden te creëren vanuit URL's. In het voorbeeld is 
 - Volg de stappen om de tool te configureren
 - Voer het script uit door bovenaan deze pagina te klikken op 'Run All'
 - Controleer of het genereren van een WARC-bestand is gelukt, door te bestandslocatie die is ingegeven bij `path` te controleren
+- Bekijk het WARC-bestand via https://replayweb.page/ 
 
 **Bronnen:**
 - [warcio PyPI](https://pypi.org/project/warcio/)
